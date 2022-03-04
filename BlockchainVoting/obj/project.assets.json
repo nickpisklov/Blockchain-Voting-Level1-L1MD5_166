@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub Repositiries\\Blockchain-Voting-Level1-L1MD5_166\\Blockchain-Voting\\BlockchainVoting.csproj",
+      "projectUniqueName": "C:\\GitHub Repositiries\\Blockchain-Voting-Level1-L1MD5_166\\BlockchainVoting\\BlockchainVoting.csproj",
       "projectName": "BlockchainVoting",
-      "projectPath": "C:\\GitHub Repositiries\\Blockchain-Voting-Level1-L1MD5_166\\Blockchain-Voting\\BlockchainVoting.csproj",
+      "projectPath": "C:\\GitHub Repositiries\\Blockchain-Voting-Level1-L1MD5_166\\BlockchainVoting\\BlockchainVoting.csproj",
       "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub Repositiries\\Blockchain-Voting-Level1-L1MD5_166\\Blockchain-Voting\\obj\\",
+      "outputPath": "C:\\GitHub Repositiries\\Blockchain-Voting-Level1-L1MD5_166\\BlockchainVoting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

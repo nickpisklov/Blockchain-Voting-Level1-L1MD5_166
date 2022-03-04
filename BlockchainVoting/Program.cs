@@ -12,8 +12,10 @@ namespace BlockchainVoting
                 {"Yes", 0},
                 {"No", 0}
             };
+
             Voting voting = new Voting(1, "MyVoting", points, new DateTime(2022, 2, 22), new DateTime(2022, 2, 25));
             Console.WriteLine(voting.ToString());
+            Console.WriteLine();
             Console.WriteLine();
 
             Transaction transaction = new Transaction(voting, "No");
