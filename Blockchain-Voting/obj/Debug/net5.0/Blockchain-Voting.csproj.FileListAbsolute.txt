@@ -1,0 +1,16 @@
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\bin\Debug\net5.0\Blockchain-Voting.exe
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\bin\Debug\net5.0\Blockchain-Voting.deps.json
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\bin\Debug\net5.0\Blockchain-Voting.runtimeconfig.json
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\bin\Debug\net5.0\Blockchain-Voting.runtimeconfig.dev.json
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\bin\Debug\net5.0\Blockchain-Voting.dll
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\bin\Debug\net5.0\ref\Blockchain-Voting.dll
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\bin\Debug\net5.0\Blockchain-Voting.pdb
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\Blockchain-Voting.csproj.AssemblyReference.cache
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\Blockchain-Voting.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\Blockchain-Voting.AssemblyInfoInputs.cache
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\Blockchain-Voting.AssemblyInfo.cs
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\Blockchain-Voting.csproj.CoreCompileInputs.cache
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\Blockchain-Voting.dll
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\ref\Blockchain-Voting.dll
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\Blockchain-Voting.pdb
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\Blockchain-Voting.genruntimeconfig.cache
