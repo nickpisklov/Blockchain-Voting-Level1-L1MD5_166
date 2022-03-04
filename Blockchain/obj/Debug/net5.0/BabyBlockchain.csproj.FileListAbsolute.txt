@@ -1,0 +1,32 @@
+C:\C#\Blockchain\bin\Debug\net5.0\BabyBlockchain.exe
+C:\C#\Blockchain\bin\Debug\net5.0\BabyBlockchain.deps.json
+C:\C#\Blockchain\bin\Debug\net5.0\BabyBlockchain.runtimeconfig.json
+C:\C#\Blockchain\bin\Debug\net5.0\BabyBlockchain.runtimeconfig.dev.json
+C:\C#\Blockchain\bin\Debug\net5.0\BabyBlockchain.dll
+C:\C#\Blockchain\bin\Debug\net5.0\ref\BabyBlockchain.dll
+C:\C#\Blockchain\bin\Debug\net5.0\BabyBlockchain.pdb
+C:\C#\Blockchain\obj\Debug\net5.0\BabyBlockchain.csproj.AssemblyReference.cache
+C:\C#\Blockchain\obj\Debug\net5.0\BabyBlockchain.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Blockchain\obj\Debug\net5.0\BabyBlockchain.AssemblyInfoInputs.cache
+C:\C#\Blockchain\obj\Debug\net5.0\BabyBlockchain.AssemblyInfo.cs
+C:\C#\Blockchain\obj\Debug\net5.0\BabyBlockchain.csproj.CoreCompileInputs.cache
+C:\C#\Blockchain\obj\Debug\net5.0\BabyBlockchain.dll
+C:\C#\Blockchain\obj\Debug\net5.0\ref\BabyBlockchain.dll
+C:\C#\Blockchain\obj\Debug\net5.0\BabyBlockchain.pdb
+C:\C#\Blockchain\obj\Debug\net5.0\BabyBlockchain.genruntimeconfig.cache
+C:\GitHub Repositiries\BabyBlockchain-Level-1-L1MD5_166-\Blockchain\bin\Debug\net5.0\BabyBlockchain.exe
+C:\GitHub Repositiries\BabyBlockchain-Level-1-L1MD5_166-\Blockchain\bin\Debug\net5.0\BabyBlockchain.deps.json
+C:\GitHub Repositiries\BabyBlockchain-Level-1-L1MD5_166-\Blockchain\bin\Debug\net5.0\BabyBlockchain.runtimeconfig.json
+C:\GitHub Repositiries\BabyBlockchain-Level-1-L1MD5_166-\Blockchain\bin\Debug\net5.0\BabyBlockchain.runtimeconfig.dev.json
+C:\GitHub Repositiries\BabyBlockchain-Level-1-L1MD5_166-\Blockchain\bin\Debug\net5.0\BabyBlockchain.dll
+C:\GitHub Repositiries\BabyBlockchain-Level-1-L1MD5_166-\Blockchain\bin\Debug\net5.0\ref\BabyBlockchain.dll
+C:\GitHub Repositiries\BabyBlockchain-Level-1-L1MD5_166-\Blockchain\bin\Debug\net5.0\BabyBlockchain.pdb
+C:\GitHub Repositiries\BabyBlockchain-Level-1-L1MD5_166-\Blockchain\obj\Debug\net5.0\BabyBlockchain.csproj.AssemblyReference.cache
+C:\GitHub Repositiries\BabyBlockchain-Level-1-L1MD5_166-\Blockchain\obj\Debug\net5.0\BabyBlockchain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub Repositiries\BabyBlockchain-Level-1-L1MD5_166-\Blockchain\obj\Debug\net5.0\BabyBlockchain.AssemblyInfoInputs.cache
+C:\GitHub Repositiries\BabyBlockchain-Level-1-L1MD5_166-\Blockchain\obj\Debug\net5.0\BabyBlockchain.AssemblyInfo.cs
+C:\GitHub Repositiries\BabyBlockchain-Level-1-L1MD5_166-\Blockchain\obj\Debug\net5.0\BabyBlockchain.csproj.CoreCompileInputs.cache
+C:\GitHub Repositiries\BabyBlockchain-Level-1-L1MD5_166-\Blockchain\obj\Debug\net5.0\BabyBlockchain.dll
+C:\GitHub Repositiries\BabyBlockchain-Level-1-L1MD5_166-\Blockchain\obj\Debug\net5.0\ref\BabyBlockchain.dll
+C:\GitHub Repositiries\BabyBlockchain-Level-1-L1MD5_166-\Blockchain\obj\Debug\net5.0\BabyBlockchain.pdb
+C:\GitHub Repositiries\BabyBlockchain-Level-1-L1MD5_166-\Blockchain\obj\Debug\net5.0\BabyBlockchain.genruntimeconfig.cache
