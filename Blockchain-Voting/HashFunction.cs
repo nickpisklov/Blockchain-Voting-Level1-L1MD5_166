@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using System.Security.Cryptography;
 
-namespace Blockchain_Voting
+namespace BlockchainVoting
 {
     public static class HashFunction
     {

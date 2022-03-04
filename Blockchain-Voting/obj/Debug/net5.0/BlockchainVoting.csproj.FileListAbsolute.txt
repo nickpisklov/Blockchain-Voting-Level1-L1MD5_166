@@ -1,0 +1,16 @@
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\bin\Debug\net5.0\BlockchainVoting.exe
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\bin\Debug\net5.0\BlockchainVoting.deps.json
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\bin\Debug\net5.0\BlockchainVoting.runtimeconfig.json
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\bin\Debug\net5.0\BlockchainVoting.runtimeconfig.dev.json
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\bin\Debug\net5.0\BlockchainVoting.dll
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\bin\Debug\net5.0\ref\BlockchainVoting.dll
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\bin\Debug\net5.0\BlockchainVoting.pdb
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\BlockchainVoting.csproj.AssemblyReference.cache
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\BlockchainVoting.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\BlockchainVoting.AssemblyInfoInputs.cache
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\BlockchainVoting.AssemblyInfo.cs
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\BlockchainVoting.csproj.CoreCompileInputs.cache
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\BlockchainVoting.dll
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\ref\BlockchainVoting.dll
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\BlockchainVoting.pdb
+C:\GitHub Repositiries\Blockchain-Voting-Level1-L1MD5_166\Blockchain-Voting\obj\Debug\net5.0\BlockchainVoting.genruntimeconfig.cache

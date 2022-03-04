@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Blockchain_Voting
+namespace BlockchainVoting
 {
     internal class Transaction
     {

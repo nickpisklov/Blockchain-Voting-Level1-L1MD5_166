@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Blockchain_Voting
+namespace BlockchainVoting
 {
     internal class Voting
     {

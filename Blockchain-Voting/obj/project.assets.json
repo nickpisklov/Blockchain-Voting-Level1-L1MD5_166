@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub Repositiries\\Blockchain-Voting-Level1-L1MD5_166\\Blockchain-Voting\\Blockchain-Voting.csproj",
-      "projectName": "Blockchain-Voting",
-      "projectPath": "C:\\GitHub Repositiries\\Blockchain-Voting-Level1-L1MD5_166\\Blockchain-Voting\\Blockchain-Voting.csproj",
+      "projectUniqueName": "C:\\GitHub Repositiries\\Blockchain-Voting-Level1-L1MD5_166\\Blockchain-Voting\\BlockchainVoting.csproj",
+      "projectName": "BlockchainVoting",
+      "projectPath": "C:\\GitHub Repositiries\\Blockchain-Voting-Level1-L1MD5_166\\Blockchain-Voting\\BlockchainVoting.csproj",
       "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
       "outputPath": "C:\\GitHub Repositiries\\Blockchain-Voting-Level1-L1MD5_166\\Blockchain-Voting\\obj\\",
       "projectStyle": "PackageReference",

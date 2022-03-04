@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9680bc70-232d-46ad-a2c3-2b51b79f3c98": {
+      "ProjectGuid": "9680bc70-232d-46ad-a2c3-2b51b79f3c98",
+      "DisplayName": "BlockchainVoting",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
